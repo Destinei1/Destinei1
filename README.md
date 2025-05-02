@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Destinei1
-- 👀 I’m interested in Python Projects, Bespoke Data Ingestion, Automation and Python
+- 👀 I’m interested in Python Projects, Bespoke Data Ingestion and Automation
 - 🌱 I’m currently learning Apache Spark, Apple Search Ads attribution and Cloud computing
 - 💞️ I’m looking to collaborate on a data science project!! 
 - 📫 How to reach me: Email me at Destsimp@gmail.com
