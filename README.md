@@ -110,15 +110,6 @@ I live in the **Data & AI** district. Come visit my building
 >
 > I build real systems under real constraints. Hands-on output over certifications and abstract study — every time.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Destinei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Destinei1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</div>
 
 ---
 
