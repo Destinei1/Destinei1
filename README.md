@@ -112,16 +112,6 @@ I live in the **Data & AI** district. Come visit my building
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Destinei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Destinei1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
 <div align="center">
 
 *Mathematician by training. Data engineer by trade. Artist-adjacent by choice.*
