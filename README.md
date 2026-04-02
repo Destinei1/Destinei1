@@ -110,6 +110,8 @@ I live in the **Data & AI** district. Come visit my building
 >
 > I build real systems under real constraints. Hands-on output over certifications and abstract study — every time.
 
+> *"I want AI to do my laundry and dishes so that I can do art and writing, not for AI to do my art and writing so that I can do my laundry and dishes."*
+> — Joanna Maciejewska
 ---
 
 <div align="center">
